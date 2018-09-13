@@ -1,6 +1,8 @@
 name: unspider
 channels:
   - conda-forge
+  - conda-forge/labels/broken
+  - defaults
 dependencies:
   - python=3.6
   - gdal=2.3.1
@@ -9,4 +11,4 @@ dependencies:
   - ipython
   - jupyter
   - ipywidgets
-  - tqdm=4.25.*
+  - tqdm
