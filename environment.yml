@@ -1,7 +1,6 @@
 name: unspider
 channels:
   - conda-forge
-  - conda-forge/labels/broken
   - defaults
 dependencies:
   - python=3.6
