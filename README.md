@@ -6,9 +6,9 @@
 
 ***
 
-The objective of this [Recommended Practice](https://un-spider.org/advisory-support/recommended-practices) is to determine the extent of flooded areas. The usage of Synthetic Aperture Radar (SAR) satellite imagery for flood extent mapping constitutes a viable solution with fast image processing, providing near real-time flood information to relief agencies for supporting humanitarian action. The high data reliability as well as the absence of geographical constraints, such as site accessibility, emphasize the technology’s potential in the field.
+Spectral vegetation indices are among the most widely used satellite data products for monitoring and measuring vegetation cover, condition, and change. This [Recommended Practice](https://un-spider.org/advisory-support/recommended-practices) applies a multitemporal analysis of the MODIS-based Standardized Vegetation Index (SVI) and Vegetation Condition Index (VCI) to support drought monitoring and early warning.
 
-This [Jupyter Notebook](https://github.com/vhertel/drought-monitoring/blob/master/drought-monitoring.ipynb) covers the full processing chain from data query and download up to the export of the final data products by utilizing open access MODIS data. The tool's workflow follows the UN-SPIDER Recommended Practice on [Drought Monitoring](https://un-spider.org/advisory-support/recommended-practices/recommended-practice-agricultural-drought-monitoring-svi) and is illustrated in the chart below. More detailed information regarding user inputs and processing steps can be found within the Jupyter Notebook.
+The [Jupyter Notebook](https://github.com/vhertel/drought-monitoring/blob/master/drought-monitoring.ipynb) covers the full processing chain from data query and download up to the export of the final data products by utilizing open access MODIS data. The tool's workflow follows the UN-SPIDER Recommended Practice on [Drought Monitoring](https://un-spider.org/advisory-support/recommended-practices/recommended-practice-agricultural-drought-monitoring-svi) and is illustrated in the chart below. More detailed information regarding user inputs and processing steps can be found within the Jupyter Notebook.
 
 <p><center> <img src="resources/charts/chart_readme.png" width="1000"/> </p></center>
 
