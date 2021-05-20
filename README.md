@@ -12,6 +12,10 @@ This [Jupyter Notebook](https://github.com/vhertel/drought-monitoring/blob/maste
 
 <p><center> <img src="resources/charts/chart_readme.png" width="1000"/> </p></center>
 
+The Jupyter Notebook has been optimized for use with [Binder](https://mybinder.org/). As a cloud computing-based environment for Jupyter Notebooks, it takes advantage of external technical resources and thus allows this tool to be applied using devices with limited computing power, including phones and tablets, and in areas with scarce bandwidth. The notebook can directly be accessed and used by clicking the respective icon below.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vhertel/drought-monitoring/HEAD)
+
 ***
 
 *This tool was created to support the [UN-SPIDER Knowledge Portal](http://www.un-spider.org/).*  <br />
