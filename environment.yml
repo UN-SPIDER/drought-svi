@@ -11,3 +11,8 @@ dependencies:
   - jupyter
   - ipywidgets
   - tqdm
+  - imageio
+  - geopandas
+  - ipyleaflet
+  - ipyfilechooser
+  - jupyter_contrib_nbextensions
